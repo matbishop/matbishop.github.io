@@ -326,13 +326,11 @@ footer img {
     header:has(nav input:checked) + main {
         transition: opacity 0.2s;
         opacity: 0.2;
-        pointer-events: none;
     }
     
     header:has(nav input:checked) + main + footer {
         transition: opacity 0.2s;
         opacity: 0.2;
-        pointer-events: none;
     }
     
     /* About Section */

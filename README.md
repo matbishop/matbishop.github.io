@@ -2,7 +2,7 @@
 
 This is the code for my personal website, which can be accessed here:  
 
-[matbishop.tech](matbishop.tech)
+[matbishop.tech](https://matbishop.tech)
 
 ## Description
 

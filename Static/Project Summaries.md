@@ -2,7 +2,7 @@
 
 [Finance](https://github.com/matbishop/Public/tree/main/capstone)  
 Python, HTML, CSS, JS, Django, Bootstrap  
-Financial web application with the utility to create custom user portfolios using real-time data and a financial calculator
+Financial web application with the utility to create custom user portfolios using real-time data including financial calculations
 
 [Traffic](https://github.com/matbishop/Public/blob/main/traffic)  
 Python, Tensorflow  
